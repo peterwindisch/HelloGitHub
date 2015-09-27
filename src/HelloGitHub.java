@@ -2,7 +2,7 @@
 public class HelloGitHub {
 
 	public static void main(String[] args) {
-		System.out.println ("Hello Word aus Repo2xx");
+		System.out.println ("Hello Word aus Repo2xx - Änderung 1");
 	}
 
 }
